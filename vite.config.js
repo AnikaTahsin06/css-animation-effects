@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/deploy-practice2/',
+  base: '/css-animation-effects/',
 });
