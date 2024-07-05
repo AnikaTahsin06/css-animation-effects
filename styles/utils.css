@@ -59,6 +59,13 @@
     transition: 0.7s ease-in-out;
 }
 
+/* xxs */
+@media (min-width: 375px) {
+    .container {
+        max-width: 375px;
+    }
+}
+
 /* xs */
 @media (min-width: 475px) {
     .container {
